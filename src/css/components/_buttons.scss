@@ -1,0 +1,14 @@
+.btn {
+  border: 0;
+  background: none;
+  font-family: inherit;
+  font-size: 1.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 1rem;
+  border-radius: 0.8rem;
+  transition: all 0.3s;
+
+  color: var(--dark-grayish-cyan);
+  background-color: var(--grayish-cyan);
+}
