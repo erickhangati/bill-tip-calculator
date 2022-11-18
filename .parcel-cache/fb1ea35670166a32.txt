@@ -15,7 +15,7 @@
 120D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\htmlparser2\lib\WritableStream.d.ts133128246456888852 0
 115D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\full\string\replace.js133130922004461344 0
 125D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\caniuse-lite\data\features\filesystem.js133128246572325523 0
-76D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist133131280586540020 1
+76D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist133132662081686597 1
 101D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\msgpackr-extract133128246449785876 1
 114D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\react-refresh\build-info.json133128246450575425 0
 131D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\modules\esnext.set.is-disjoint-from.js133130921984353129 0
@@ -193,7 +193,7 @@
 126D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\full\typed-array\float32-array.js133130921988810353 0
 118D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\full\string\virtual\at.js133130921970099188 0
 131D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\caniuse-lite\data\features\meta-theme-color.js133128246575746980 0
-96D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\src\css\_tip-layout.scss133130946758927424 0
+96D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\src\css\_tip-layout.scss133132661462565329 0
 123D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\actual\typed-array\includes.js133130921992376390 0
 120D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\features\aggregate-error.js133130921967479099 0
 115D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\svgo\plugins\preset-default.js133128246473835185 0
@@ -977,7 +977,7 @@
 128D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\caniuse-lite\data\features\object-values.js133128246576596147 0
 125D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\yaml\browser\dist\PlainValue-b8036b75.js133128246464535467 0
 142D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133128246483065994 0
-103D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\favicon-32x32.fe944b6e.png133131280584035227 0
+103D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\favicon-32x32.fe944b6e.png133132662078960306 0
 105D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\terser\lib\minify.js133128246474254840 0
 117D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\lmdb\dependencies\lmdb\libraries133128246443172055 1
 116D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\caniuse-lite\data\regions\SR.js133128246585691085 0
@@ -3814,6 +3814,7 @@
 124D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\stable\number\to-exponential.js133130922009208586 0
 127D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\actual\reflect\set-prototype-of.js133130922005430913 0
 127D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\features\string\virtual\italics.js133130921997176513 0
+95D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.548cee5f.css133132662081576659 0
 118D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\stable\number\to-fixed.js133130922009338504 0
 114D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\stable\number\virtual133130922009878172 1
 118D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\modules\es.error.cause.js133130921976872524 0
@@ -4291,7 +4292,7 @@
 132D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\modules\es.typed-array.float64-array.js133130921981974557 0
 129D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\features\array\virtual\to-spliced.js133130922010447823 0
 130D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\modules\es.typed-array.int32-array.js133130921982054513 0
-101D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\icon-dollar.5ec7c534.svg133131280579428059 0
+101D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\icon-dollar.5ec7c534.svg133132662073523649 0
 110D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\chokidar\types\index.d.ts133128248436548873 0
 123D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\modules\es.typed-array.join.js133130921982114502 0
 132D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\modules\es.typed-array.last-index-of.js133130921982134477 0
@@ -4880,7 +4881,6 @@
 121D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\full\string\virtual\blink.js133130921970788781 0
 129D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\full\string\virtual\code-point-at.js133130921971558301 0
 127D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\full\string\virtual\code-points.js133130921971688203 0
-99D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.883d1cc5.css.map133131280586529996 0
 125D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\full\string\virtual\ends-with.js133130921975333464 0
 121D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\full\string\virtual\fixed.js133130921988110814 0
 123D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\core-js\features\string\code-points.js133130921971628245 0
@@ -6468,7 +6468,7 @@
 130D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\@parcel\core\lib\public\MutableBundleGraph.js133128246492975889 0
 140D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\caniuse-lite\data\features\css-container-query-units.js133128246517975510 0
 137D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\caniuse-lite\data\features\css-content-visibility.js133128246518025494 0
-101D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\icon-person.27244280.svg133131280586420063 0
+101D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\icon-person.27244280.svg133132662081566693 0
 127D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\caniuse-lite\data\features\css-counters.js133128246518122779 0
 142D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\@parcel\runtime-js\lib\helpers\browser\import-polyfill.js133128246461797023 0
 130D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\caniuse-lite\data\features\css-crisp-edges.js133128246518765766 0
@@ -6995,7 +6995,7 @@
 114D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\@parcel\workers\lib\Worker.js133128246473795205 0
 128D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133128246469688962 0
 129D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\@parcel\workers\lib\process\ProcessWorker.js133128246464955234 0
-98D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.bef12a6b.js.map133131280586540020 0
+98D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.bef12a6b.js.map133132662081676620 0
 112D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\@parcel\watcher\binding.gyp133128246456718958 0
 111D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\@parcel\watcher\index.d.ts133128246481625388 0
 114D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\@parcel\watcher\index.js.flow133128246455670586 0
@@ -7646,8 +7646,8 @@
 100D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\.bin\semver.ps1133128246588505437 0
 96D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\.bin\terser133128246588505437 0
 100D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\node_modules\.bin\terser.cmd133128246588505437 0
-95D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.883d1cc5.css133131280586420063 0
-94D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.bef12a6b.js133131280586430053 0
-87D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.html133131280586420063 0
+99D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.548cee5f.css.map133132662081676620 0
+94D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.bef12a6b.js133132662081576659 0
+87D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\dist\index.html133132662081576659 0
 107D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\design\desktop-design-completed.jpg132907754200000000 0
 98D:\PROGRAMMING\FRONTEND MENTOR\Challenge 7 - Tip Calculator App\project\design\desktop-preview.jpg132907754200000000 0
