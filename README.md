@@ -20,6 +20,6 @@ The app also has client side validations on the inputs.
 2. CSS (Grid, Flexbox, SASS)
 3. Vanilla JavaScript
 
-## Live link to the QR code component
+## Live link to the Bill / Tip Calculator App
 
 [https://eric-bill-tip-calculator.netlify.app/](https://eric-bill-tip-calculator.netlify.app/ "Frontend Mentor Challenge - Bill / Tip Calculator App")
